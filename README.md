@@ -2,5 +2,5 @@
 Units: <br/>
      1) angulared bitrix template. (MIT License)<br/>
      2) socket system for bitix start. (Private code)<br/>
-"Simple Bitrix Angular Landing page" project was created for Assminog's angular testing purposes only.<br/>
+<b>"Simple Bitrix Angular Landing page"</b> project was created for Assminog's angular testing purposes only.<br/>
 Have a fun!<br/>
